@@ -1,11 +1,11 @@
 <?php
 session_start();
 ob_start();
-$host="localhost";
-$username="root";
+$host="";
+$username="";
 $pass="";
-$dbname="GKchAE0n";
-$tbl_name="credientials";
+$dbname="";
+$tbl_name="";
 
 // Create connection
 $conn = mysqli_connect($host, $username, $pass, $dbname);
