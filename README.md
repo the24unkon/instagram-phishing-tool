@@ -19,4 +19,4 @@ Usage of Instagram Hacking Tool for attacking targets without prior mutual conse
 ## Coded by: @musab-tatek (https://github.com/musab-tatek)
 
 
-### Leave a star if you like the tool
+### Leave a star if you like the tool :thankyou:
